@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773350376458",
+    "project_id": "rn-chatmat",
+    "storage_bucket": "rn-chatmat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773350376458:android:690d5cda9f8714e1070bf3",
+        "android_client_info": {
+          "package_name": "com.chatmat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773350376458-2sg36qddaothrqpdqh91s2ak9d91jab9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatmat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "773350376458-ug4dmupoucc25jqqid80k37a9ulpmadf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDRUGAa9lQmqPwls5woZRe8fVQH6OMfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773350376458-ug4dmupoucc25jqqid80k37a9ulpmadf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
